@@ -113,7 +113,7 @@ Send an email with customizable details.
 ├── node_modules/          # Project dependencies
 ├── .env                   # Environment variables (not tracked in Git)
 ├── package.json           # NPM configuration
-├── server.js              # Main server file
+├── index.js              # Main server file
 ├── README.md              # Documentation
 ```
 
